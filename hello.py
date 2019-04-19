@@ -6,3 +6,4 @@ if __name__ == '__main__'
     print "hello world 1"
 
     print "路漫漫其修远兮，吾将上下而求索！"
+    print "hello world 3"
