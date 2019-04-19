@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 #-*- coding:UTF-8 -*-
 
-
 if __name__ == '__main__'
+    # rebuild 
     print "hello world 1"
     print "hello world 2"
-    # add feature-A
+    print "路漫漫其修远兮，吾将上下而求索！"
     print "hello world 3"
     print "hello world 4"
-    print "hello world 22222222222222222222" #print "hello world 2!"
+    print "hello world 5"
